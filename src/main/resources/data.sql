@@ -26,3 +26,9 @@ INSERT INTO PERSON (ID, NAME, LOCATION, BIRTH_DATE )
 VALUES(10002,  'James', 'New York',sysdate());
 INSERT INTO PERSON (ID, NAME, LOCATION, BIRTH_DATE )
 VALUES(10003,  'Pieter', 'Amsterdam',sysdate());
+
+
+insert into STUDENT(id,name) values (20001,'NAME1');
+insert into STUDENT(id,name) values (20002,'NAME2');
+insert into STUDENT(id,name) values (20003,'NAME3');
+insert into STUDENT(id,name) values (20004,'NAME4');

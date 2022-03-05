@@ -1,6 +1,5 @@
 package com.jpa.hibernate.demo.application;
 
-import com.jpa.hibernate.demo.entity.Course;
 import com.jpa.hibernate.demo.repository.CourseRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
